@@ -9,6 +9,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
+:WQ!
 
 # Search String History (newest to oldest):
 
@@ -21,16 +22,16 @@
 # Registers:
 
 # File marks:
-'0  150  25  ~/index.jsp
+'0  150  36  ~/index.jsp
 
 # Jumplist (newest first):
--'  150  25  ~/index.jsp
+-'  150  36  ~/index.jsp
 -'  1  0  ~/index.jsp
 
 # History of marks within files (newest to oldest):
 
 > ~/index.jsp
-	"	150	25
-	^	150	26
-	.	150	25
-	+	150	25
+	"	150	36
+	^	150	37
+	.	150	36
+	+	150	36
